@@ -1,0 +1,4 @@
+misi99,120
+sushi,36
+0pitu0,0
+sea,2500

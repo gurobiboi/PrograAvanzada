@@ -1,0 +1,2 @@
+NUM_BARCOS = 5
+RADIO_EXP = 5

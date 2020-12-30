@@ -1,0 +1,6 @@
+*.pdf
+generador_de_cartas.py
+generador_grilla.py
+grilla.py
+grafo.json
+sprites/
